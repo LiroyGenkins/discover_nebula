@@ -1,8 +1,8 @@
 # discover_nebula
 
 В ноутбуке:
-* Установка NebulaGraph NebulaGraph Studio с Docker-compose
+* Установка NebulaGraph и NebulaGraph Studio с Docker-compose
 * Занесение данных из .csv датасета
 * Построение графового представления
-* Поиск взаимосвязей визуально и с аналитически
+* Поиск взаимосвязей визуально и аналитически
 * Анализ сложных сообществ
